@@ -116,5 +116,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Tushar Ahuja**  
 Frontend & Full Stack Developer  
-[LinkedIn](https://www.linkedin.com/in/tusharahuja/) • [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/ahuja-tushar/) 
+<!-- • [Portfolio](https://yourportfolio.com) -->
 
